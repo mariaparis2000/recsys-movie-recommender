@@ -1,7 +1,7 @@
-# Recommender Systems — Individual Project
+# Recommender Systems: Individual Project
 
 Movie recommender system prototype built on the MovieLens dataset.
-Developed for the Recommender Systems course at ESADE Business School (Master in Business Analytics, 2025-2026).
+Developed for the Recommender Systems course at ESADE.
 
 ## Project structure
 
