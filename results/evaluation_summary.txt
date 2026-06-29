@@ -1,0 +1,17 @@
+EVALUATION SUMMARY
+==================================================
+Dataset: MovieLens Latest Small
+Train ratings: 80,668
+Test ratings: 20,168
+Evaluation users: 200
+K: 10
+
+                      P@10    R@10  NDCG@10     MRR   HR@10  Novelty  Coverage
+model                                                                         
+Random              0.0045  0.0015   0.0048  0.0150  0.0452   7.6619    0.1838
+Most Popular        0.2266  0.0814   0.2604  0.4993  0.7739   1.7347    0.0063
+Highest Rated       0.0683  0.0211   0.0759  0.1942  0.4121   3.8440    0.0041
+Content-Based       0.0226  0.0063   0.0223  0.0594  0.1859   6.8748    0.1127
+Item-Item CF        0.0317  0.0037   0.0273  0.0369  0.1307   8.8005    0.0610
+User-User CF        0.3367  0.1436   0.3968  0.6620  0.8945   2.2237    0.0260
+Matrix Fact. (SVD)  0.0256  0.0072   0.0226  0.0519  0.2312   5.3666    0.0028

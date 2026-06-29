@@ -1,0 +1,106 @@
+user_id,model,rank,movie_id,title
+432,Random,1,4449,Adanggaman (2000)
+432,Random,2,65088,Bedtime Stories (2008)
+432,Random,3,5080,Slackers (2002)
+432,Random,4,6722,Once Upon a Time in China II (Wong Fei-hung Ji Yi: Naam yi dong ji keung) (1992)
+432,Random,5,42943,Revolution (1985)
+432,Most Popular,1,296,Pulp Fiction (1994)
+432,Most Popular,2,480,Jurassic Park (1993)
+432,Most Popular,3,589,Terminator 2: Judgment Day (1991)
+432,Most Popular,4,1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+432,Most Popular,5,50,"Usual Suspects, The (1995)"
+432,Highest Rated,1,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+432,Highest Rated,2,898,"Philadelphia Story, The (1940)"
+432,Highest Rated,3,933,To Catch a Thief (1955)
+432,Highest Rated,4,1276,Cool Hand Luke (1967)
+432,Highest Rated,5,1235,Harold and Maude (1971)
+432,Content-Based,1,14,Nixon (1995)
+432,Content-Based,2,26,Othello (1995)
+432,Content-Based,3,31,Dangerous Minds (1995)
+432,Content-Based,4,40,"Cry, the Beloved Country (1995)"
+432,Content-Based,5,43,Restoration (1995)
+432,Item-Item CF,1,1519,Broken English (1996)
+432,Item-Item CF,2,6983,Jane Eyre (1944)
+432,Item-Item CF,3,63239,Cinderella (1997)
+432,Item-Item CF,4,6158,"Jungle Book 2, The (2003)"
+432,Item-Item CF,5,8869,First Daughter (2004)
+432,User-User CF,1,2028,Saving Private Ryan (1998)
+432,User-User CF,2,296,Pulp Fiction (1994)
+432,User-User CF,3,589,Terminator 2: Judgment Day (1991)
+432,User-User CF,4,48516,"Departed, The (2006)"
+432,User-User CF,5,8961,"Incredibles, The (2004)"
+432,Matrix Fact. (SVD),1,7347,Secret Window (2004)
+432,Matrix Fact. (SVD),2,71462,"Cove, The (2009)"
+432,Matrix Fact. (SVD),3,2115,Indiana Jones and the Temple of Doom (1984)
+432,Matrix Fact. (SVD),4,1127,"Abyss, The (1989)"
+432,Matrix Fact. (SVD),5,2409,Rocky II (1979)
+288,Random,1,50514,After the Wedding (Efter brylluppet) (2006)
+288,Random,2,55290,Gone Baby Gone (2007)
+288,Random,3,110330,Me and you (io e te) (2012)
+288,Random,4,143367,Silence (2016)
+288,Random,5,27036,Merlin (1998)
+288,Most Popular,1,318,"Shawshank Redemption, The (1994)"
+288,Most Popular,2,50,"Usual Suspects, The (1995)"
+288,Most Popular,3,2858,American Beauty (1999)
+288,Most Popular,4,457,"Fugitive, The (1993)"
+288,Most Popular,5,858,"Godfather, The (1972)"
+288,Highest Rated,1,318,"Shawshank Redemption, The (1994)"
+288,Highest Rated,2,922,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)
+288,Highest Rated,3,898,"Philadelphia Story, The (1940)"
+288,Highest Rated,4,933,To Catch a Thief (1955)
+288,Highest Rated,5,78499,Toy Story 3 (2010)
+288,Content-Based,1,14,Nixon (1995)
+288,Content-Based,2,26,Othello (1995)
+288,Content-Based,3,31,Dangerous Minds (1995)
+288,Content-Based,4,40,"Cry, the Beloved Country (1995)"
+288,Content-Based,5,55,Georgia (1995)
+288,Item-Item CF,1,6125,"Secret Policeman's Other Ball, The (1982)"
+288,Item-Item CF,2,26704,State of Grace (1990)
+288,Item-Item CF,3,6453,Man of Aran (1934)
+288,Item-Item CF,4,6464,Good Burger (1997)
+288,Item-Item CF,5,7312,"Follow Me, Boys! (1966)"
+288,User-User CF,1,858,"Godfather, The (1972)"
+288,User-User CF,2,4878,Donnie Darko (2001)
+288,User-User CF,3,6874,Kill Bill: Vol. 1 (2003)
+288,User-User CF,4,1197,"Princess Bride, The (1987)"
+288,User-User CF,5,1213,Goodfellas (1990)
+288,Matrix Fact. (SVD),1,71462,"Cove, The (2009)"
+288,Matrix Fact. (SVD),2,2084,Newsies (1992)
+288,Matrix Fact. (SVD),3,121342,Carry on Cruising (1962)
+288,Matrix Fact. (SVD),4,36517,"Constant Gardener, The (2005)"
+288,Matrix Fact. (SVD),5,3072,Moonstruck (1987)
+599,Random,1,60030,Spiral (2007)
+599,Random,2,3728,One False Move (1992)
+599,Random,3,3664,Puppet Master 5: The Final Chapter (1994)
+599,Random,4,2965,"Omega Code, The (1999)"
+599,Random,5,158956,Kill Command (2016)
+599,Most Popular,1,296,Pulp Fiction (1994)
+599,Most Popular,2,110,Braveheart (1995)
+599,Most Popular,3,527,Schindler's List (1993)
+599,Most Popular,4,1,Toy Story (1995)
+599,Most Popular,5,1196,Star Wars: Episode V - The Empire Strikes Back (1980)
+599,Highest Rated,1,933,To Catch a Thief (1955)
+599,Highest Rated,2,1276,Cool Hand Luke (1967)
+599,Highest Rated,3,1235,Harold and Maude (1971)
+599,Highest Rated,4,1267,"Manchurian Candidate, The (1962)"
+599,Highest Rated,5,246,Hoop Dreams (1994)
+599,Content-Based,1,14,Nixon (1995)
+599,Content-Based,2,40,"Cry, the Beloved Country (1995)"
+599,Content-Based,3,55,Georgia (1995)
+599,Content-Based,4,57,Home for the Holidays (1995)
+599,Content-Based,5,62,Mr. Holland's Opus (1995)
+599,Item-Item CF,1,1089,Reservoir Dogs (1992)
+599,Item-Item CF,2,2858,American Beauty (1999)
+599,Item-Item CF,3,1200,Aliens (1986)
+599,Item-Item CF,4,1193,One Flew Over the Cuckoo's Nest (1975)
+599,Item-Item CF,5,1221,"Godfather: Part II, The (1974)"
+599,User-User CF,1,296,Pulp Fiction (1994)
+599,User-User CF,2,1196,Star Wars: Episode V - The Empire Strikes Back (1980)
+599,User-User CF,3,1036,Die Hard (1988)
+599,User-User CF,4,47,Seven (a.k.a. Se7en) (1995)
+599,User-User CF,5,1200,Aliens (1986)
+599,Matrix Fact. (SVD),1,7347,Secret Window (2004)
+599,Matrix Fact. (SVD),2,71462,"Cove, The (2009)"
+599,Matrix Fact. (SVD),3,121342,Carry on Cruising (1962)
+599,Matrix Fact. (SVD),4,5064,The Count of Monte Cristo (2002)
+599,Matrix Fact. (SVD),5,1210,Star Wars: Episode VI - Return of the Jedi (1983)
