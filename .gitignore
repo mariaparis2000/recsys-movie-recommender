@@ -1,0 +1,14 @@
+# Data files
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Results figures (optional, puede ser pesado)
+# results/figures/
+
+# macOS
+.DS_Store
